@@ -1,0 +1,29 @@
+.bg-cover{
+	background-image: url("../images/Who.png");
+	height: 110vh;
+	background-position: center;
+	background-size: cover;
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+}
+
+.center-me{
+	display: flex;
+	justify-content: center;
+	padding: 40px;
+}
+
+.forms-signin{
+	padding: 20px;
+	text-align: center;
+}
+
+input{
+	margin-bottom: 10px;
+}
+img{
+	top: -180px;
+	align-self: center;
+	height: 220px;
+	width: 550px;
+}
