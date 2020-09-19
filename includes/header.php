@@ -15,7 +15,7 @@
     </head>
     <header>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" href="#">Fanatic</a>
+        <a class="navbar-brand" href="#">Anime Wonderland</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -32,12 +32,12 @@
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
                         data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Reviews
+                        Explore Away!
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="#">Replace Me</a>
+                        <a class="dropdown-item" href="#">Merch</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="#">Replace Me 2</a>
+                        <a class="dropdown-item" href="#">Latest News</a>
                     </div>
                 </li>
             </ul>
