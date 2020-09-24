@@ -19,7 +19,8 @@ session_start();
     </head>
     <header>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" href="#">Anime Wonderland</a>
+        <div class= "d-md-flex d-block flex-row mx-md-auto mx-0">
+        <a class="navbar-brand" style="font-size: 18px" href="#">Anime Wonderland</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -55,5 +56,6 @@ session_start();
                 </li>
             </ul>
         </div>
+       </div>
     </nav>
 </header>
