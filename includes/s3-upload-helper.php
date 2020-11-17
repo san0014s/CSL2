@@ -4,7 +4,6 @@ require '../vendor/autoload.php';
 
 use Aws\S3\S3Client;
 use Aws\Exception\AwsException;
-
 if(isset($_POST['s3-submit'])){
     $bucketName = "anime-wonderland-s3";
 
@@ -18,7 +17,7 @@ if(isset($_POST['s3-submit'])){
 
     try {
 
-
+        
         $s3Client = S3Client::factory(
             array('region'=>'us-east-1',
             'version'=>'latest',
